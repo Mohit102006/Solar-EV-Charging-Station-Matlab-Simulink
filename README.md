@@ -16,7 +16,7 @@ A Buck Converter with Constant Current–Constant Voltage (CC-CV) charging strat
 
 ---
 
-✨** Features**
+✨**Features**
 
 - ☀️ Solar PV based EV Charging
 - ⚡ P&O Maximum Power Point Tracking (MPPT)
