@@ -1,10 +1,10 @@
-#⚡ Solar-Powered EV Charging Station with Battery Energy Storage System
+⚡ **Solar-Powered EV Charging Station with Battery Energy Storage System**
 
 A MATLAB/Simulink-based Solar EV Charging Station integrating MPPT, Battery Energy Storage System (BESS), Bidirectional DC-DC Converter, and CC-CV EV Charging for efficient renewable energy utilization.
 
 ---
 
-#📖 Overview
+📖 Overview
 
 This project presents the design and simulation of a Solar-Powered Electric Vehicle (EV) Charging Station using MATLAB/Simulink.
 
