@@ -4,7 +4,7 @@ A MATLAB/Simulink-based Solar EV Charging Station integrating MPPT, Battery Ener
 
 ---
 
-📖 Overview
+📖 **Overview**
 
 This project presents the design and simulation of a Solar-Powered Electric Vehicle (EV) Charging Station using MATLAB/Simulink.
 
@@ -16,7 +16,7 @@ A Buck Converter with Constant Current–Constant Voltage (CC-CV) charging strat
 
 ---
 
-✨ Features
+✨** Features**
 
 - ☀️ Solar PV based EV Charging
 - ⚡ P&O Maximum Power Point Tracking (MPPT)
@@ -31,14 +31,14 @@ A Buck Converter with Constant Current–Constant Voltage (CC-CV) charging strat
 
 ---
 
-🛠 Software Used
+🛠 **Software Used**
 
 - MATLAB
 - Simulink
 
 ---
 
-⚙️ System Components
+⚙️ **System Components**
 
 - Photovoltaic (PV) Array
 - MPPT Controller (P&O)
@@ -54,7 +54,7 @@ A Buck Converter with Constant Current–Constant Voltage (CC-CV) charging strat
 
 ---
 
-🔄 Working Principle
+🔄 **Working Principle**
 
 1. The PV Array converts solar energy into electrical energy.
 2. The MPPT controller continuously extracts maximum power from the PV array.
@@ -65,7 +65,7 @@ A Buck Converter with Constant Current–Constant Voltage (CC-CV) charging strat
 
 ---
 
-📈 Simulation Results
+📈 **Simulation Results**
 
 The system was simulated under different irradiance levels:
 
@@ -78,17 +78,17 @@ Simulation graphs and screenshots are included in this repository.
 
 ---
 
-📂 Repository Contents
+📂 **Repository Contents**
 
 - MATLAB/Simulink Model (.slx)
 - Simulation Screenshots
 - Performance Graphs
 - Project Images
-- README Documentation
+
 
 ---
 
-🚀 Future Scope
+🚀 **Future Scope**
 
 - Grid-Connected EV Charging
 - Vehicle-to-Grid (V2G)
@@ -99,7 +99,7 @@ Simulation graphs and screenshots are included in this repository.
 
 ---
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Mohit
 
